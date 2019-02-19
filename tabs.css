@@ -63,3 +63,7 @@ input {
 .fc-unthemed .fc-popover .fc-header {
     background: #333;
 }
+
+header.toolbar.floating .search {
+    display: none;
+}
